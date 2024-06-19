@@ -45,7 +45,7 @@ The script will fetch song lyrics, search for the specified terms, analyze the s
 - Calculate sentiment scores using NLTK's SentimentIntensityAnalyzer.
 
 ### count_valid_hits(lyric_query, max_results)
-= Search and count valid hits for a specific lyric query, and perform sentiment analysis on the annotations.
+- Search and count valid hits for a specific lyric query, and perform sentiment analysis on the annotations.
 
 ### write_titles_to_file(titles, filename)
 - Write song titles to a file
